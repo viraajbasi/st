@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "default.h"
+#include "mocha.h"
 
 /*
  * appearance
